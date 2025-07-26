@@ -1,0 +1,1 @@
+# HealthMate-Symptom-Checker
